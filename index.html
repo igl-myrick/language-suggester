@@ -10,11 +10,34 @@
   <p>Answer the questions below to find out what programming language is best for you!</p>
   <div id="questions">
     <form>
-      Do you prefer math & science, or the arts?
+      Which of the following would you consider your favorite subject during school?
+      <select id="subject">
+        <option>Math</option>
+        <option>Art</option>
+        <option>Science</option>
+        <option>Music</option>
+      </select><br>
       Do you prefer to create something brand new, or expand upon others' ideas?
+      <select id="create">
+        <option>I would rather make something brand new</option>
+        <option>I like the idea of building onto something</option>
+      </select><br>
       Do you have an interest in video games?
+      <select id="games">
+        <option>Yes</option>
+        <option>No</option>
+      </select><br>
       Do you spend a lot of time browsing the internet?
-      Do you strive for efficiency and organization?
+      <select id="internet">
+        <option>Yes</option>
+        <option>No</option>
+      </select><br>
+      Do you consider being efficient and organized most important?
+      <select id="efficiency">
+        <option>Yes</option>
+        <option>No</option>
+      </select><br>
+      <button type="submit">Submit</button>
     </form>
   </div>
   <div id="result1" class="hidden">

@@ -1,3 +1,26 @@
 .hidden {
   display: none;
 }
+
+body {
+  background-color: #d9bef3;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 3%;
+}
+
+#main {
+  width: 50%;
+  padding: 8px;
+  border: 2px solid #800080;
+  background-color: #e2d2f1;
+  float: left;
+}
+
+#result1, #result2, #result3, #result4 {
+  width: 40%;
+  padding: 8px;
+  border: 2px solid #800080;
+  background-color: #e2d2f1;
+  float: right;
+}

@@ -20,6 +20,8 @@ _This website is designed for beginner programming students unsure what language
 * _Open the top level of the folder_
 * _Open index.html_
 
+_You can also view the live website [here](https://igl-myrick.github.io/language-suggester/)_
+
 ## Known Bugs
 
 * _None at the moment_

@@ -7,12 +7,14 @@ body {
   padding-left: 5%;
   padding-right: 5%;
   padding-top: 3%;
+  line-height: 26px;
 }
 
 #main {
   width: 50%;
   padding: 8px;
   border: 2px solid #800080;
+  border-radius: 16px;
   background-color: #e2d2f1;
   float: left;
 }
@@ -21,6 +23,7 @@ body {
   width: 40%;
   padding: 8px;
   border: 2px solid #800080;
+  border-radius: 16px;
   background-color: #e2d2f1;
   float: right;
 }
